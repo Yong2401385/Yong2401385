@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Software Engeneering
 - 💞️ I’m looking to collaborate on my life
 - 📫 How to reach me with anything but emails
-- 😄 Pronouns: F**K your pronouns
 - ⚡ Fun fact: Im Asian
 
 <!---
