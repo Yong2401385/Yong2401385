@@ -5,6 +5,8 @@
 - 📫 How to reach me with anything but emails
 - ⚡ Fun fact: Im Asian
 
+- Try your best in life is hard ...
+
 <!---
 Yong2401385/Yong2401385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
